@@ -1,0 +1,3 @@
+﻿  demoqt.cpp
+C:\Users\Toka Khaled\source\repos\demoqt\demoqt\RankingWindow.h(19,2): warning C4091: 'static ': ignored on left of 'RankingWindow' when no variable is declared
+  demoqt.vcxproj -> C:\Users\Toka Khaled\source\repos\demoqt\x64\Debug\demoqt.exe
