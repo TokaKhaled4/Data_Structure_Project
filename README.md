@@ -36,7 +36,7 @@ This is a group project for a data structure course using C++ and Qt for GUI.
 
 - Implemented the autocorrect function in the search bar and text area.
 - Developed the functionality for finding local and global word frequencies using unordered maps.
-- Contributed in implementing the UI design using Qt.
+- Contributed in implementing the UI design into code using Qt.
 
 ## Getting Started
 
